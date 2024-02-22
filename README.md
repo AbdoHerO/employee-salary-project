@@ -49,4 +49,14 @@ employee-salary-project
 │   main.ts
 │   Employe.ts
 │   Salaire.ts
-│   Em
+│   EmployeSalaireAnnuel.ts
+```
+
+## Data Initialization
+
+The project includes initiation data for employees and their salaries, as described in the problem statement.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+```
